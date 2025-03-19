@@ -48,7 +48,7 @@ The app will run on http://localhost:3000.
 
 ## 🎯 How to Use
 
-Click "Start Quiz" to begin.
-Answer the multiple-choice questions before time runs out.
-View your score and high score at the end of the quiz.
-Click "Restart Quiz" to play again.
+- Click "Start Quiz" to begin.
+- Answer the multiple-choice questions before time runs out.
+- View your score and high score at the end of the quiz.
+- Click "Restart Quiz" to play again.
